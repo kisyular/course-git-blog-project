@@ -7,6 +7,9 @@ bluegrey: #7d97ad
 aquamarine: #02ccba
 
 */
+body {
+    background-color: #00cae4;
+}
 
 html {
     box-sizing: border-box;
